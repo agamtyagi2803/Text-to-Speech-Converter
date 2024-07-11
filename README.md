@@ -10,3 +10,13 @@ This Text-to-Speech Converter is a web application built using HTML, CSS, and Ja
 2. Speech Synthesis: Converts the entered text into speech using the Web Speech API.
 3. Responsive Design: The app is designed to be fully responsive, ensuring an optimal user experience on both desktop and mobile devices.
 4. Voice Options: Users can select voice or language out of the given options in which they want to hear the entered text.
+
+**Technologies Used**
+
+1. HTML: Structure of the web application.
+2. CSS: Styling of the application for an appealing and responsive design.
+3. JavaScript: Interactivity and functionality of the application.
+
+**Contributing**
+Contributions are welcome! If you have suggestions for improvements or encounter any issues, feel free to open an issue or submit a pull request.
+
